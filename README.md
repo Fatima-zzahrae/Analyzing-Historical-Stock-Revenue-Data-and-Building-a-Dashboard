@@ -1,4 +1,4 @@
-# Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard
+# Stock-Performance-and-Revenue-Analysis-Dashboard
 
 This project is part of a data science assignment focused on analyzing stock performance and revenue trends for Tesla (TSLA) and GameStop (GME). The project involves:
 - Extracting historical stock data using the yfinance library.
